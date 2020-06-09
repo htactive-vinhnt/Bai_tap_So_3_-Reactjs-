@@ -1,0 +1,91 @@
+.header-box {
+    width: 100%;
+    height: 5%;
+    flex-direction: left;
+    border-bottom: 1px solid rgb(219, 217, 217);
+}
+
+.logo {
+    width: 20%;
+    height: 5%;
+}
+
+.image-logo{
+    width: 20%;
+    height: 20%;
+}
+
+.name-web {
+    animation: changeColor 5s infinite;
+}
+
+.menu {
+    width: 100%;
+    height: 40px;
+    flex-direction: left;
+    margin-left: 40%;
+}
+
+@keyframes changeColor {
+    /*Run from 1px to full px*/
+    from {
+      color: blue;
+      margin-left: 1px;
+    }
+    to {
+      color: red ;
+      margin-left: 50px;
+    }
+  }
+.seach-box{
+    width: 80%;
+    height: 5%;
+}
+
+.input-seach{
+    width: 20%;
+    height: 30px;
+    margin-right: 2%;
+    border: 1px solid rgb(194, 190, 190);
+    border-radius: 10px;
+}
+
+.btn-seach {
+    width: 60px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+
+.content {
+    margin-top: 4%;
+    width: 100%;
+    height: auto;
+    overflow: auto;
+    margin-left: 4%;
+    margin-right: 4%;
+    flex-direction: left;
+}
+
+.product-box {
+    width: 20%;
+    height: 500px;
+    border: 1px solid rgb(204, 203, 203);
+    float: left;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.product-box:hover {
+    box-shadow: 3px 5px 10px;
+}
+
+.product-img {
+    width: 80%;
+    height: 300px;
+}
+
+.product-img:active {
+    width: 400px;
+    height: 600px;
+}
