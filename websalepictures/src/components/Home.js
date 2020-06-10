@@ -3,7 +3,7 @@ import "./style.css";
 import ProductView from "./ProductView";
 import { theData1, theData2 } from "./data";
 
-export default class Content extends React.Component {
+export default class Home extends React.Component {
   renderProduct(data) {
     return data.map(element => {
       return (

@@ -1,6 +1,6 @@
 import React from 'react';
 import './style.css';
-
+import {Redirect} from 'react-router-dom';
 export default class Header extends React.Component {
     constructor(props){
         super(props);
