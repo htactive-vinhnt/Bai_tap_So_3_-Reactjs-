@@ -40,7 +40,7 @@ export const theData1 = [
     },
     {
         name: 'Ngắn ảnh tại soule của jinhool',
-        link: 'https://lh3.googleusercontent.com/proxy/Ej69zIrHKsxLzPYy16tF6IXllnunybQ62fN4wEeH78ybfQi9GpDKO2bsmqCRbqNdVAGM-SveNdWTWqlZpuacAL8gXRcj1v9lOsuuLyDEk3l18l1IJ7qcY7fzeprYfpuNOwvQ-uhp2HLxHThmsHWOVB-_QndXSNnQ0HXPMY14xpDie5kmKA',
+        link: 'https://cdn.phunuvagiadinh.vn/auto/29_12_2018/v-bts-idol-kpop-dau-tien-nhan-duoc-mon-qua-quang-ba-hinh-anh-ben-trong-may-bay-cua-fan-viet-2018-12-30-18-05.jpg',
         Price: 25000,
         Descript: ''
     },
