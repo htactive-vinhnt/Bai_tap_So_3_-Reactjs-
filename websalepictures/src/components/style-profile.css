@@ -1,0 +1,21 @@
+.page-Profile {
+    width: 100%;
+    height: 1000px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShkxKWiyNZRIQkCl-DvDxUEpqdLSed5xZMMPnwA-r-NI4fBdMG&usqp=CAU');
+    background-size: 100%;
+    background-attachment: fixed;
+
+}
+.left-profile{
+    width: 40%;
+    height: auto
+}
+ .box-avatra{
+     width: 30%;
+     height: 300px;
+ }
+
+.avarta {
+    width: 50%;
+    height: 50%;
+}
